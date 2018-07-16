@@ -18,7 +18,7 @@ To produce a wave that is considered a radio wave, we can accelerate particles t
 
 Ampere-Maxwell law:
 
-[pic Amp-max](http://www.rakeshkapoor.us/ClassNotes/HTMLFiles/Electromagnetic_Waves_9.gif)
+![pic Amp-max](http://www.rakeshkapoor.us/ClassNotes/HTMLFiles/Electromagnetic_Waves_9.gif)
 
 ![ampere-maxwell](https://latex.codecogs.com/gif.latex?%5Coint%5Cvec%7BB%7D%5Ccdot%20d%5Cvec%7Bl%7D%3D%5Cmu_0%20i_%7Bthru%7D%20&plus;%5Cmu_0%5Cepsilon_0%5Cfrac%7Bd%5CPhi_E%7D%7Bdt%7D%3D%5Cmu_0%28I_%7Bthru%7D&plus;i_d%29)
 
