@@ -18,11 +18,13 @@ To produce a wave that is considered a radio wave, we can accelerate particles t
 
 Ampere-Maxwell law:
 
-[ampere-maxwell](https://latex.codecogs.com/gif.latex?%5Coint%5Cvec%7BB%7D%5Ccdot%20d%5Cvec%7Bl%7D%3D%5Cmu_0%20I_%7Bthru%7D%20&plus;%5Cmu_0%5Cepsilon_0%5Cfrac%7Bd%5CPhi_E%7D%7Bdt%7D%3D%5Cmu_0%28I_%7Bthru%7D&plus;I_d%29)
+[pic Amp-max](http://www.rakeshkapoor.us/ClassNotes/HTMLFiles/Electromagnetic_Waves_9.gif)
+
+![ampere-maxwell](https://latex.codecogs.com/gif.latex?%5Coint%5Cvec%7BB%7D%5Ccdot%20d%5Cvec%7Bl%7D%3D%5Cmu_0%20i_%7Bthru%7D%20&plus;%5Cmu_0%5Cepsilon_0%5Cfrac%7Bd%5CPhi_E%7D%7Bdt%7D%3D%5Cmu_0%28I_%7Bthru%7D&plus;i_d%29)
 
 where:
 
-![displacement current](https://latex.codecogs.com/gif.latex?I_d%3D%5Cepsilon_0%5Cfrac%7Bd%5CPhi_E%7D%7Bdt%7D)
+![displacement current](https://latex.codecogs.com/gif.latex?i_d%3D%5Cepsilon_0%5Cfrac%7Bd%5CPhi_E%7D%7Bdt%7D)
 
 ![constant 1](https://latex.codecogs.com/gif.latex?%5Cmu_0%3D4%5Cpi%20%5Ccdot%2010%5E%7B-7%7D%5Cfrac%7BT%5Ccdot%20m%7D%7BA%7D)
 
