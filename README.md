@@ -22,11 +22,11 @@ Ampere-Maxwell law:
 
 where:
 
-[displacement current](https://latex.codecogs.com/gif.latex?I_d%3D%5Cepsilon_0%5Cfrac%7Bd%5CPhi_E%7D%7Bdt%7D)
+![displacement current](https://latex.codecogs.com/gif.latex?I_d%3D%5Cepsilon_0%5Cfrac%7Bd%5CPhi_E%7D%7Bdt%7D)
 
-[constant 1](https://latex.codecogs.com/gif.latex?%5Cmu_0%3D4%5Cpi%20%5Ccdot%2010%5E%7B-7%7D%5Cfrac%7BT%5Ccdot%20m%7D%7BA%7D)
+![constant 1](https://latex.codecogs.com/gif.latex?%5Cmu_0%3D4%5Cpi%20%5Ccdot%2010%5E%7B-7%7D%5Cfrac%7BT%5Ccdot%20m%7D%7BA%7D)
 
-[constant 2](https://latex.codecogs.com/gif.latex?%5Cepsilon_0%3D8.854%5Ctimes%2010%5E%7B-12%7D%5Cfrac%7BC%5E2%7D%7BN%5Ccdot%20m%5E2%7D)
+![constant 2](https://latex.codecogs.com/gif.latex?%5Cepsilon_0%3D8.854%5Ctimes%2010%5E%7B-12%7D%5Cfrac%7BC%5E2%7D%7BN%5Ccdot%20m%5E2%7D)
 
 
 
