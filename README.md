@@ -49,10 +49,7 @@ where:
 ## How to solve the Wave Equation
 
 
-
-
-
-
+https://www.youtube.com/watch?v=f0FeWyloHrs
 
 
 ## Resouces
