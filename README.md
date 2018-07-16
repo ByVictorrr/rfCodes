@@ -38,6 +38,17 @@ where:
 ![constant 2](https://latex.codecogs.com/gif.latex?%5Cepsilon_0%3D8.854%5Ctimes%2010%5E%7B-12%7D%5Cfrac%7BC%5E2%7D%7BN%5Ccdot%20m%5E2%7D)
 
 
+## Derivation of Maxwells Equations to get the Wave Equation
+
+
+
+## How to solve the Wave Equation
+
+
+
+
+
+
 
 
 ## Resouces
