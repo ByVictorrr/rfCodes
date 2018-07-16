@@ -40,6 +40,7 @@ where:
 
 ## Derivation of Maxwells Equations to get the Wave Equation
 
+![wave gif](https://upload.wikimedia.org/wikipedia/commons/9/99/EM-Wave.gif)
 
 
 ## How to solve the Wave Equation
