@@ -1,4 +1,4 @@
-# rfCodes - research on radio frequency [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ByVictorrr/rfCodes/LICENSE.md)
+# rfCodes - research on radio frequency [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ByVictorrr/rfCodes/blob/master/LICENSE.md)
 
 My research I have done for rolling codes and rf and reverse engineering those.
 
