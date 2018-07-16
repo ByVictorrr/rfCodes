@@ -40,6 +40,9 @@ where:
 
 ## Derivation of Maxwells Equations to get the Wave Equation
 
+![WaveEQN](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiUvJmNgqPcAhUN-6wKHbvaDysQjRx6BAgBEAU&url=http%3A%2F%2Fwww.pstcc.edu%2Fdepartments%2Fnatural_behavioral_sciences%2FWeb%2520Physics%2FChapter%2520034.htm&psig=AOvVaw2Aj5B7011bB5gDhLO-R-X3&ust=1531809731180409)
+
+
 ![wave gif](https://upload.wikimedia.org/wikipedia/commons/9/99/EM-Wave.gif)
 
 
