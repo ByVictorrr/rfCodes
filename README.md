@@ -16,11 +16,18 @@ A radio wave is an electromagnetic wave, which consists of a changing magnetic a
 
 To produce a wave that is considered a radio wave, we can accelerate particles trhough wires.
 
-Ampere-Maxwell law:
+### Maxwell's Equations
 
-![pic Amp-max](http://www.rakeshkapoor.us/ClassNotes/HTMLFiles/Electromagnetic_Waves_9.gif)
+![GaussElectric](https://latex.codecogs.com/gif.latex?%5Coint%20%5Cvec%7BE%7D%20%5Ccdot%20%5Cvec%7BdA%7D%20%3D%20%5Cfrac%7Bq_i_n%7D%7B%5Cepsilon_0%7D)
+
+![GaussMagnetic](https://latex.codecogs.com/gif.latex?%5Coint%5Cvec%7BB%7D%5Ccdot%20d%5Cvec%7BA%7D%3D0)
+
+![FaradaysGen](https://latex.codecogs.com/gif.latex?%5Coint%20%5Cvec%7BE%7D%5Ccdot%20%5Cvec%7Bdl%7D%3D%20-%20%5Cfrac%7B%5Cmathrm%7Bd%20%5CPhi_B%7D%20%7D%7B%5Cmathrm%7Bd%7D%20t%7D%20%3D%20-%20%5Cfrac%7B%5Cmathrm%7Bd%7D%20%7D%7B%5Cmathrm%7Bd%7D%20t%7D%5Cint%20%5Cvec%7BB%7D%5Ccdot%20%5Cvec%7BdA%7D)
 
 ![ampere-maxwell](https://latex.codecogs.com/gif.latex?%5Coint%5Cvec%7BB%7D%5Ccdot%20d%5Cvec%7Bl%7D%3D%5Cmu_0%20i_%7Bthru%7D%20&plus;%5Cmu_0%5Cepsilon_0%5Cfrac%7Bd%5CPhi_E%7D%7Bdt%7D%3D%5Cmu_0%28I_%7Bthru%7D&plus;i_d%29)
+
+
+![pic Amp-max](http://www.rakeshkapoor.us/ClassNotes/HTMLFiles/Electromagnetic_Waves_9.gif)
 
 where:
 
