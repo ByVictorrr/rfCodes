@@ -47,8 +47,8 @@ where:
 
 ![WaveEQN](http://www.pstcc.edu/departments/natural_behavioral_sciences/Web%20Physics/D03408.gif)
 
-
 ![wave gif](https://upload.wikimedia.org/wikipedia/commons/9/99/EM-Wave.gif)
+
 
 
 ## How to solve the Wave Equation
@@ -65,6 +65,7 @@ https://www.youtube.com/watch?v=f0FeWyloHrs
 
 ### FM (frequency modulation)
 
+![Modulation](https://camo.githubusercontent.com/cbc1986cfdd285b8dfe5db106b6d9fb36188a1f0/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61342f416d666d332d656e2d64652e676966)
 
 ## Resouces
 
