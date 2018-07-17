@@ -57,6 +57,15 @@ where:
 https://www.youtube.com/watch?v=f0FeWyloHrs
 
 
+## Types of Modulation
+
+
+### AM (amplitude modulation)
+
+
+### FM (frequency modulation)
+
+
 ## Resouces
 
 [fixed codes](https://andrewmohawk.com/2015/08/31/hacking-fixed-key-remotes-with-only-rfcat/)
