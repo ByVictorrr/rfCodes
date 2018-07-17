@@ -30,9 +30,7 @@ To produce a wave that is considered a radio wave, we can accelerate particles t
 
 ![pic guass B](http://scientificsentence.net/Equations/Electrostatics/Magnetic-Dipole.jpg)
 
-![]()
-
-![]()
+![faraday](http://www.physics.louisville.edu/cldavis/phys299/notes/mag_faraday_fig2.jpg)
 
 ![pic Amp-max](http://www.rakeshkapoor.us/ClassNotes/HTMLFiles/Electromagnetic_Waves_9.gif)
 
