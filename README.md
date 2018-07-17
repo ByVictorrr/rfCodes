@@ -28,6 +28,8 @@ To produce a wave that is considered a radio wave, we can accelerate particles t
 
 ![pic gauss E](https://www.tutorialspoint.com/images/physics/electric_charges_and_fields/gauss_theorem.jpg)
 
+![pic guass B](http://scientificsentence.net/Equations/Electrostatics/Magnetic-Dipole.jpg)
+
 ![]()
 
 ![]()
