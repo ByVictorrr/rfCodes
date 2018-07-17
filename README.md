@@ -84,3 +84,5 @@ https://www.youtube.com/watch?v=f0FeWyloHrs
 [radio waves](https://en.wikipedia.org/wiki/Radio_wave)
 
 [maxwell eqn](http://www.pstcc.edu/departments/natural_behavioral_sciences/Web%20Physics/Chapter%20034.htm)
+
+[arduino rf](https://www.youtube.com/watch?v=b5C9SPVlU4U)
