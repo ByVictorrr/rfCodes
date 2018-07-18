@@ -53,13 +53,14 @@ where:
 
 ## How to solve the Wave Equation
 
-
 https://www.youtube.com/watch?v=f0FeWyloHrs
 
 ## Characteristics of wave
 
 * Amplitude
+
 * Frequency
+
 * Phase
 
 ## How is information Encoded into a wave?
@@ -76,13 +77,18 @@ The modulating signal can be an analog signal like music, image or a digital sig
 
 1.) Analog
     *Amplitude modulation
+    
     *Frequency modulation
+    
     *Phase modulation
 
 2.)Digital
-    *Pulse amplitude modulation(PAM)
-    *Pulse width modulation(PWM)
-    *Pulse code modulation(PCM)
+    * Pulse amplitude modulation(PAM)
+    
+    * Pulse width modulation(PWM)
+    
+    * Pulse code modulation(PCM)
+    
 
 
 Frequency modulation: 
