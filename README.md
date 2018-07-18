@@ -76,6 +76,7 @@ The modulating signal can be an analog signal like music, image or a digital sig
 ### Types of modulation
 
 1.) Analog
+
     *Amplitude modulation
     
     *Frequency modulation
@@ -83,33 +84,25 @@ The modulating signal can be an analog signal like music, image or a digital sig
     *Phase modulation
 
 2.)Digital
+
     * Pulse amplitude modulation(PAM)
     
     * Pulse width modulation(PWM)
     
     * Pulse code modulation(PCM)
     
-
+#### Analog Modulation
 
 Frequency modulation: 
 
 
 Amplitude modulation: is the process of changing the amplitude of the carrier signal w/ respect to the instaneous value of the modulating signal.
 
+![Modulation](https://camo.githubusercontent.com/cbc1986cfdd285b8dfe5db106b6d9fb36188a1f0/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61342f416d666d332d656e2d64652e676966)
+
 
 ![visual of Modulation](https://www.taitradioacademy.com/wp-content/uploads/2014/10/Image-8.png)
 
-
-## Types of Modulation
-
-
-### AM (amplitude modulation)
-
-
-
-### FM (frequency modulation)
-
-![Modulation](https://camo.githubusercontent.com/cbc1986cfdd285b8dfe5db106b6d9fb36188a1f0/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61342f416d666d332d656e2d64652e676966)
 
 ## Resouces
 
