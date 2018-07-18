@@ -1,0 +1,6 @@
+d.setFreq(433920000)
+d.setMdmModulation(MOD_ASK_OOK)
+d.setMdmDRate(4800)
+d.setMaxPower()
+d.lowball()
+d.RFlisten()
