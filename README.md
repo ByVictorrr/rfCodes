@@ -77,19 +77,19 @@ The modulating signal can be an analog signal like music, image or a digital sig
 
 1.) Analog
 
-    *Amplitude modulation
+    Amplitude modulation
     
-    *Frequency modulation
+    Frequency modulation
     
-    *Phase modulation
+    Phase modulation
 
 2.)Digital
 
-    * Pulse amplitude modulation(PAM)
+    Pulse amplitude modulation(PAM)
     
-    * Pulse width modulation(PWM)
+    Pulse width modulation(PWM)
     
-    * Pulse code modulation(PCM)
+    Pulse code modulation(PCM)
     
 #### Analog Modulation
 
